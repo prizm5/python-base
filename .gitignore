@@ -1,0 +1,7 @@
+*.swp
+*.pyc
+.status
+.vscode
+event.log
+client_secrets.json
+__pycache__
